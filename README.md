@@ -1,9 +1,8 @@
-## JOHN ALI 👋
-# Senior Software Engineer
+# JOHN ALI - Senior Software Engineer 👋
 
-<br><br>
+<br>
 
-## ABOUT ME
+# ABOUT ME
 I am a firm believer of excellence and strive for quality impact by applying process and discipline in optimizing performance with responsibility 
 
 I perform great operational research, consults with users, studies system flow, data utilization, work processes, investigates issue areas, and adheres to the software development lifecycle.
