@@ -3,12 +3,16 @@
 <br>
 
 # ABOUT ME
+
+<div dir="ltr">
+  
 I am a firm believer of excellence and strive for quality impact by applying process and discipline in optimizing performance with responsibility 
 
 I perform great operational research, consults with users, studies system flow, data utilization, work processes, investigates issue areas, and adheres to the software development lifecycle.
 
 Been a SCRUM Master and an Agile practitioner, I embrace new opportunities and adapt easily to change. I am a staunch supporter of the Agile Manifesto's high-standard values and principles, as well as SMART software design.
 
+</div>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abdulsamad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulsamadadeosun/)](https://www.linkedin.com/in/abdulsamadadeosun/)
