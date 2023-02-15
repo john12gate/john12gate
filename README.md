@@ -1,7 +1,15 @@
 # JOHN ALI 👋
 ## Senior Software Engineer
 
-I am Adeosun Abdulsamad, currently working as a Software Engineer at the ALX Software Engineering Program. I am an aspiring front-end developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+
+#ABOUT ME
+I am a firm believer of excellence and strive for quality impact by applying process and discipline in optimizing performance with responsibility 
+
+I perform great operational research, consults with users, studies system flow, data utilization, work processes, investigates issue areas, and adheres to the software development lifecycle.
+
+Been a SCRUM Master and an Agile practitioner, I embrace new opportunities and adapt easily to change. I am a staunch supporter of the Agile Manifesto's high-standard values and principles, as well as SMART software design.
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abdulsamad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulsamadadeosun/)](https://www.linkedin.com/in/abdulsamadadeosun/)
 [![Medium Badge](https://img.shields.io/badge/Abdulsamadadeosun-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@adeosunabdulsamad25/)](https://medium.com/@adeosunabdulsamad25/)
