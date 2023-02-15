@@ -1,11 +1,11 @@
-<p align="center">
+
 ![Header](./github-header-image.png)
 <br>
 # JOHN ALI - Senior Software Engineer 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Abdulsamad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulsamadadeosun/)](https://www.linkedin.com/in/abdulsamadadeosun/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abdulsamad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-ali-software-developer/)](https://www.linkedin.com/in/john-ali-software-developer/)
 [![Medium Badge](https://img.shields.io/badge/Abdulsamadadeosun-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@adeosunabdulsamad25/)](https://medium.com/@adeosunabdulsamad25/)
-[![Gmail Badge](https://img.shields.io/badge/-adeosunabdulsamad25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adeosunabdulsamad25@gmail.com)](adeosunabdulsamad25@gmail.com)
-</p>
+[![Gmail Badge](https://img.shields.io/badge/-alionuche2008@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alionuche2008@gmail.com)](alionuche2008@gmail.com)
+
 <br>
 
 # ABOUT ME
