@@ -1,6 +1,6 @@
 
 # JOHN ALI - Senior Software Engineer 👋
-<p> Linked:[![Linkedin Badge](https://img.shields.io/badge/-Abdulsamad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulsamadadeosun/)](https://www.linkedin.com/in/abdulsamadadeosun/)
+<p> Linked: [![Linkedin Badge](https://img.shields.io/badge/-Abdulsamad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulsamadadeosun/)](https://www.linkedin.com/in/abdulsamadadeosun/)
 </p>
   [![Medium Badge](https://img.shields.io/badge/Abdulsamadadeosun-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@adeosunabdulsamad25/)](https://medium.com/@adeosunabdulsamad25/)
 [![Gmail Badge](https://img.shields.io/badge/-adeosunabdulsamad25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adeosunabdulsamad25@gmail.com)](adeosunabdulsamad25@gmail.com)
