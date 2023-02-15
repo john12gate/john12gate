@@ -1,4 +1,5 @@
-### Hi there 👋
+### JOHN ALI 👋
+## Senior Software Engineer
 
 I am Adeosun Abdulsamad, currently working as a Software Engineer at the ALX Software Engineering Program. I am an aspiring front-end developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
