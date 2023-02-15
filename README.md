@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+![Header](github-header-image (1).png)
 <br>
 # JOHN ALI - Senior Software Engineer 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Abdulsamad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulsamadadeosun/)](https://www.linkedin.com/in/abdulsamadadeosun/)
